@@ -5,7 +5,9 @@ Teaching Instructions:
 - Could you help the student transcribe the sentence into Japanese?
 
 - Don't give away the answer, make the student work through via clues
-- Also include the Hiragana, Katakana and Kanji versions.
-- Provide us a table of vocabulary.
-- Do not provide particles in the vocabulary, student needs to figure out conjugations and tenses
+- Provide us a table of vocabulary, the table should only include nouns, verbs, adverbs, adjectives
+- Do not provide particles in the vocabulary, student needs to figure the correct particles to use
+- Provide words in their dictionary form. student needs to figure out conjugation and tenses
+- Provide a possible sentence structure
+- The table of vocabulary should only have the following columns: Japanese, romaji, and english
 Student Input: You are a bright student; I bet you will speak Japanese after this course, right?
